@@ -1,2 +1,2 @@
 name = input("Qual é o seu nome?")
-print("fodase, ",name)
+print("fodase, ",name,", não é cunt")
